@@ -1,6 +1,5 @@
 #include<stdio.h>
-char
-alphabet[26]={'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'}; //universal set
+char alphabet[26]={'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'}; //universal set
 char setA[3] = {'a','b','c'}; //To store the elements of setA
 char setB[3] = {'c','d','f'}; //To store the elements of setB
 int vA[26],vB[26]; //To store the BitVector form of setA (VA) and setB (VB)
